@@ -6,4 +6,4 @@
 
 window中通过图形化界面和鼠标可以任意切换需要进入的目录，但Linux必须通过cd命令切换目录。但在学习cd命令之前，我们有必要分清Linux的目录结构（[linux目录结构详细说明](资料/03-Linux各目录及每个目录的详细介绍.docx)）
 
-![1](C:\Users\043654\Desktop\linux\image\1.png)
+![1](C:\Users\043654\Desktop\linux\image\1.png)1
